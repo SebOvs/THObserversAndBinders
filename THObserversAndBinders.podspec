@@ -8,7 +8,7 @@
 #
 Pod::Spec.new do |s|
   s.name         = "THObserversAndBinders"
-  s.version      = "0.1"
+  s.version      = « 1.0.1 »
   s.summary      = "Easy, lightweight, object-based key-value observing and -binding."
   s.homepage     = "https://github.com/SebOvs/THObserversAndBinders"
   s.license      = 'MIT'
