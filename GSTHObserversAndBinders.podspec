@@ -7,7 +7,7 @@
 # For details see: https://github.com/CocoaPods/CocoaPods/wiki/The-podspec-format
 #
 Pod::Spec.new do |s|
-  s.name         = "THObserversAndBinders"
+  s.name         = "GSTHObserversAndBinders"
   s.version      = "1.0.1"
   s.summary      = "Easy, lightweight, object-based key-value observing and -binding."
   s.homepage     = "https://github.com/SebOvs/THObserversAndBinders"
