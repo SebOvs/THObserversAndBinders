@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/SebOvs/THObserversAndBinders"
   s.license      = 'MIT'
   s.author       = { "sebastien lablanchy" => "lablanchyseb@hotmail.fr" }
-  s.source       = { :git => "git://github.com/th-in-gs/THObserversAndBinders.git", :tag => "0.0.1" }
+  s.source       = { :git => "git://github.com/th-in-gs/THObserversAndBinders.git", :tag => s.version.to_s }
   s.ios.deployment_target = '6.0'
   s.osx.deployment_target = '10.7'
   s.source_files = 'THObserversAndBinders'
